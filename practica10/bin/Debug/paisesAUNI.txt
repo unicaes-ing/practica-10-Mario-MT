@@ -1,0 +1,4 @@
+
+Mexico,El Salvador,Guatemala,Nicaragua
+alemania,EE.UU
+bolivia,colombia,peru
